@@ -1,69 +1,89 @@
-# Welcome to your Lovable project
+## Kompass
+Kompass: Your Social Study Platform
+Kompass is an innovative platform designed to revolutionize the way students study, collaborate, and connect. It blends the essence of social networking with powerful academic tools to create a one-stop hub for learners. With core features such as live study rooms, a digital library, social feed, and personalized student profiles, Kompass aims to enhance the productivity and learning experience of students.
 
-## Project info
+By integrating modern web technologies, Kompass offers an interactive and user-friendly interface that helps students create virtual study groups, share educational resources, engage socially, and maintain an organized academic profile. What sets Kompass apart is its focus on academic collaboration while still embracing the engaging aspects of social platforms.
 
-**URL**: https://lovable.dev/projects/2ca32663-37a2-47bb-bbc9-dbc37a7e4776
+Whether you’re preparing for exams, collaborating on group projects, or just looking to network with fellow students, Kompass is designed to support you every step of the way. Our mission is to build a vibrant and inclusive learning community where knowledge-sharing and productivity thrive.
 
-## How can I edit this code?
+## Team members
+ABHINAND A S
+ANOOP KRISHNA
+ALPHIN BIJEESH V
+ABHINANTH M S
 
-There are several ways of editing your application.
+## How it Works?
+Kompass is a modern web application built using powerful web technologies, designed to provide a seamless social and study experience to students. Here's a breakdown of how the platform operates:
 
-**Use Lovable**
+Front-End Development:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/2ca32663-37a2-47bb-bbc9-dbc37a7e4776) and start prompting.
+Kompass is built using modern front-end technologies such as React.js for creating a responsive and dynamic user interface. Students can easily navigate between different modules such as the Study Room, Library, Social Feed, and Profile.
 
-Changes made via Lovable will be committed automatically to this repo.
+User Authentication:
 
-**Use your preferred IDE**
+The system provides user registration and login features where students can securely sign up, log in, and manage their personal accounts.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Live Study Rooms:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Kompass allows students to create or join real-time virtual study rooms where they can collaborate with peers via integrated chat and video conferencing tools.
 
-Follow these steps:
+Digital Library:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+The digital library acts as a resource center where users can access and share study materials such as notes, e-books, and links to useful academic resources.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Social Feed:
 
-# Step 3: Install the necessary dependencies.
+The social feed keeps users updated with posts from peers, study tips, group announcements, and more, encouraging interaction and knowledge sharing.
+
+Profile Management:
+
+Each student has a personalized profile showcasing their academic interests, study groups, and shared resources.
+
+
+## Libraries/Technologies Used
+
+React.js
+Node.js
+Express.js
+Socket.io (for real-time communication)
+Material-UI / Tailwind CSS (for UI styling)
+
+## How to Configure
+Set up your environment:
+
+Ensure Node.js and npm are installed on your system.
+
+Clone the Repository:
+
+bash
+Copy
+Edit
+git clone <your-repo-link>
+cd kompass
+Install Frontend Dependencies:
+
+bash
+Copy
+Edit
+cd client
+npm install
+Install Backend Dependencies:
+
+bash
+Copy
+Edit
+cd ../server
+npm install
+
+
+## Front-End Configuration:
+
+Adjust the API URL inside your frontend project to point to your backend (e.g., http://localhost:5000/api).
+
+## How to Run
+
 npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/2ca32663-37a2-47bb-bbc9-dbc37a7e4776) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+Edit
+http://localhost:3000
+to access Kompass.
