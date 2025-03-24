@@ -64,9 +64,8 @@ Each student has a personalized profile showcasing their academic interests, stu
 
 React.js
 Node.js
-Express.js
-Socket.io (for real-time communication)
-Material-UI / Tailwind CSS (for UI styling)
+Express.js 
+Tailwind CSS
 
 ## How to Configure
 Set up your environment:
