@@ -1,5 +1,6 @@
 ## Kompass
-Kompass: Your Social Study Platform
+
+## Kompass: Your Social Study Platform
 Kompass is an innovative platform designed to revolutionize the way students study, collaborate, and connect. It blends the essence of social networking with powerful academic tools to create a one-stop hub for learners. With core features such as live study rooms, a digital library, social feed, and personalized student profiles, Kompass aims to enhance the productivity and learning experience of students.
 
 By integrating modern web technologies, Kompass offers an interactive and user-friendly interface that helps students create virtual study groups, share educational resources, engage socially, and maintain an organized academic profile. What sets Kompass apart is its focus on academic collaboration while still embracing the engaging aspects of social platforms.
@@ -7,12 +8,18 @@ By integrating modern web technologies, Kompass offers an interactive and user-f
 Whether you’re preparing for exams, collaborating on group projects, or just looking to network with fellow students, Kompass is designed to support you every step of the way. Our mission is to build a vibrant and inclusive learning community where knowledge-sharing and productivity thrive.
 
 ## Team members
+
 ABHINAND A S
+
 ANOOP KRISHNA
+
 ALPHIN BIJEESH V
+
 ABHINANTH M S
 
-## How it Works?
+## How it Works? 
+
+
 Kompass is a modern web application built using powerful web technologies, designed to provide a seamless social and study experience to students. Here's a breakdown of how the platform operates:
 
 Front-End Development:
